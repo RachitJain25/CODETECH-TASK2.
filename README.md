@@ -1,7 +1,7 @@
-- **Name:** Rachit
+- **Name:** Rachit Jain
 - **Company:** CodeTech IT Solutions
 - **ID:** CT6WDS114
-- **Domain:** Full Stack Development
+- **Domain:** Web Development
 - **Duration:** 5 JUNE 2024 TO 17 JULY 2024
 
 **Project Title:** ShopEase
